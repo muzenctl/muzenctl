@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**muzenctl/muzenctl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# muzen
 
-Here are some ideas to get you started:
+**Backend Developer | Engineer | Tech Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable, efficient, and reliable software.
+
+- Backend development, system design, and algorithms
+- Databases, caching, Linux, networking, and infrastructure
+- Exploring Go, Rust, Python, cybersecurity, and system performance
+- Electronics, circuit design, soldering, and robotics
+- Interested in computer hardware, automotive engineering, mathematics, and physics
+
+**Learning. Building. Optimizing.**
